@@ -1,36 +1,19 @@
-# Personal Portfolio Website in React
+## Title:
+<h4>Oussama Horrigue - Portfolio</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Author:
+<h4>Oussama Horrigue</h4>
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+## Link:
+<a href="https://oussamahorrigue.github.io/personal-portfolio/" target="_blank"><h3>https://oussamahorrigue.github.io/personal-portfolio/</h3></a>
 
-Built using:
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+## Connect with me:
+<p align="left">
 
-In the /personal-portfolio, you can run:
+<a href = "https://www.linkedin.com/in/oussama-horrigue-69624b1b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OussamaHorrig"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/oussamahorrigue/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/oussama.horrigue"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+</p>
